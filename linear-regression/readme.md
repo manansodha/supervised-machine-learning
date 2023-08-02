@@ -1,3 +1,5 @@
+### Linear Regression Algorithms
+
 These are the linear regression and multi-linear regresion models built from scratch.
 
 >Linear regression model 1 (file named similarly) is the linear regression model which uses average of highest and lowest 
