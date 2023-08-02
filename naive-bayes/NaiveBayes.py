@@ -125,8 +125,8 @@ accuracy = (tp + fn) / (tp + fp + tn + fn)
 specificity = tn / (tn + fp)
 
 print(confusionMatrix)
-print("\nPrecision:", precision,
-      "\nRecall", recall,
-      "\nF1:", f1,
-      "\nSpecificity", specificity)
+print("\nPrecision:", round(precision, 2),
+      "\nRecall", round(recall, 2),
+      "\nF1:", round(f1, 2),
+      "\nSpecificity", round(specificity, 2))
 # columns are the actual value and rows are the predicted value
