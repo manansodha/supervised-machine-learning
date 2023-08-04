@@ -4,8 +4,8 @@
 Welcome to the Supervised Machine Learning Algorithms repository/mixtape! This repository contains a collection of popular supervised machine learning algorithms implemented in Python. These algorithms are essential tools for solving a wide range of predictive modeling and classification problems. Each algorithm is implemented from scratch, allowing you to gain a deeper understanding of their inner workings.
 
 ## Table of Contents
-* [Introduction](introduction)
-* [Algorithms](#algorithms)
+* [Introduction](##introduction)
+* [Algorithms](##algorithms)
   * [K-Nearest Neighbors (KNN)](k-nearest-neighbors)
   * [Naive Bayes](naive-bayes)
   * [Linear Regression](linear-regression)
