@@ -6,7 +6,7 @@ Welcome to the Supervised Machine Learning Algorithms repository/mixtape! This r
 ## Table of Contents
 * [Introduction](##introduction)
 * [Algorithms](##-algorithms)
-  * [K-Nearest Neighbors (KNN)](k-nearest-neighbors)
+  * [K-Nearest Neighbors (KNN)](###k-nearest-neighbors)
   * [Naive Bayes](naive-bayes)
   * [Linear Regression](linear-regression)
   * [Multilinear Regression](linear-regression)
