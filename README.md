@@ -53,8 +53,7 @@ python MultiLinearRegression_Model1.py
 python decision_tree.py
 ```
 ## Contributing
-Contributions are welcome and encouraged! Whether you want to add more algorithms, improve existing code, or fix bugs, your help is appreciated. Please read our 
-
+Contributions are welcome and encouraged! Whether you want to add more algorithms, improve existing code, or fix bugs, your help is appreciated. 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
