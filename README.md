@@ -16,7 +16,7 @@ Welcome to the Supervised Machine Learning Algorithms repository/mixtape! This r
 * [Contributing](contributing)
 * [License](license)
   
-# Introduction
+## Introduction
 In the field of supervised machine learning, we often encounter tasks where we have input data and corresponding output labels, and our goal is to learn a mapping from inputs to outputs. This repository provides implementations of several fundamental supervised learning algorithms that can assist you in building predictive models and making informed decisions based on data.
 
 ## Algorithms
